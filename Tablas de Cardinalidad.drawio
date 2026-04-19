@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="bSVBmOzFIaZiblr69Pwt" name="Página-1">
-    <mxGraphModel dx="717" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1012" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2896,7 +2896,7 @@
         <mxCell id="m_WOVXDMmekvW8GUfC_1-29" parent="m_WOVXDMmekvW8GUfC_1-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Código &lt;/u&gt;(pk)" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="m_WOVXDMmekvW8GUfC_1-30" parent="m_WOVXDMmekvW8GUfC_1-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;Item&lt;/u&gt; (pk)" vertex="1">
+        <mxCell id="m_WOVXDMmekvW8GUfC_1-30" parent="m_WOVXDMmekvW8GUfC_1-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item_descuentos&amp;nbsp;(fk)" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="m_WOVXDMmekvW8GUfC_1-47" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" value="Impuestos" vertex="1">
@@ -2989,6 +2989,9 @@
         </mxCell>
         <mxCell id="m_WOVXDMmekvW8GUfC_1-68" parent="1" style="text;whiteSpace=wrap;html=1;" value="(N, N)" vertex="1">
           <mxGeometry height="70" width="90" x="570" y="6750" as="geometry" />
+        </mxCell>
+        <mxCell id="HTi45NVNGHj0rmtKLDuB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="4- Para una entidad Financiera se desea diseñar el modelo de Base de Datos para registrar la información de los Prestamos a Clientes.&lt;br&gt;Diseñar las tablas con sus campos, teniendo en cuenta que cada cliente puede tener mas de un préstamo solicitado, y cada préstamo cuenta con un titular.&lt;br&gt;Identificar clave principal, clave foránea, cardinalidad y modelar el diagrama de esquema de como quedarían las tablas." vertex="1">
+          <mxGeometry height="30" width="800" x="210" y="6780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
