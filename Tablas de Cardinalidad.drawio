@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="bSVBmOzFIaZiblr69Pwt" name="Página-1">
-    <mxGraphModel dx="2566" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3030,7 +3030,7 @@
             <mxPoint x="760" y="6320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N6spsiGyW-cITeclbR9T-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;&lt;b&gt;Práctica de Relaciones entre Tablas (Cardinalidad)&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;&lt;b&gt;Relaciones Muchos a Muchos&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;En cada ejercicio, identificar clave principal, clave foránea, cardinalidad y modelar el diagrama de esquema de como quedarían las tablas.&lt;br&gt;1-Para un negocio de Artículos para el Hogar se desea diseñar el modelo de Base de Datos según las siguientes consideraciones:&lt;br&gt;Cada Producto pertenece a más de un Rubro." vertex="1">
+        <mxCell id="N6spsiGyW-cITeclbR9T-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;&lt;b&gt;Práctica de Relaciones entre Tablas (Cardinalidad) - PDF N°3&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;u&gt;&lt;b&gt;(Relaciones Muchos a Muchos)&lt;/b&gt;&lt;/u&gt;&lt;/span&gt;&lt;/div&gt;En cada ejercicio, identificar clave principal, clave foránea, cardinalidad y modelar el diagrama de esquema de como quedarían las tablas.&lt;br&gt;1-Para un negocio de Artículos para el Hogar se desea diseñar el modelo de Base de Datos según las siguientes consideraciones:&lt;br&gt;Cada Producto pertenece a más de un Rubro." vertex="1">
           <mxGeometry height="30" width="980" x="225" y="6470" as="geometry" />
         </mxCell>
         <mxCell id="N6spsiGyW-cITeclbR9T-2" parent="1" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" value="Productos" vertex="1">
